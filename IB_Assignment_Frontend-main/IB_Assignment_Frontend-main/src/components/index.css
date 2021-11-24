@@ -1,0 +1,63 @@
+.interview-card {
+  border-left: 10px solid #3498db;
+  padding-left: 1rem;
+}
+.duration-container {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 8rem;
+  padding: 1rem;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.duration-text-container {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 10rem;
+  padding: 1rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.delete-container {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 4.5rem;
+  padding: 1rem;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.edit-container {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 1rem;
+  padding: 1rem;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.add-new-interview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
